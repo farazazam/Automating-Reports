@@ -26,7 +26,7 @@
 ### Set Up ----------------------------------------------------
 
 # set wd
-setwd("C:/Users/rsaito/Dropbox/Work/Mazda/projects/Marketing/Marketing Analytics/HVA HVL Determination/HVA Model Results/hva_model_v9_for_diane")
+setwd("C:/Users/Dropbox/Work/Mazda/projects/Marketing/Marketing Analytics/HVA HVL Determination/HVA Model Results/hva_model_v9_for_diane")
 
 # load packages
 pacman::p_load(dplyr, tidyr, stringr, data.table, stringi, lubridate, zoo, readxl, glmnet, selectiveInference, gsubfn, plspm, caret, gdata, car, ggplot2, plotly, rio, openxlsx, scales, ggthemes, ggplot2, cowplot)
