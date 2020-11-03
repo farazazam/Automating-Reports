@@ -1,6 +1,5 @@
-# Riki Saito rsaito@mazdausa.com
-# 3/7/2017
-# HVA v9 Model Code for Diane
+
+
 
 
 # input files to this script:
